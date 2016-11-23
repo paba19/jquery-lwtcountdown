@@ -1,0 +1,19 @@
+{
+  "name": "jquery-lwtcountdown",
+  "version": "1.0.0",
+  "description": "Lightweight jQuery countdown timer",
+  "main": "src/jquery.lwtCountdown-1.0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/winwinfantasy/jquery-lwtcountdown.git"
+  },
+  "author": "Vassilis Dourdounis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winwinfantasy/jquery-lwtcountdown/issues"
+  },
+  "homepage": "https://github.com/winwinfantasy/jquery-lwtcountdown#readme"
+}
